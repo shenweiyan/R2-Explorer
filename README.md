@@ -90,24 +90,6 @@ Choose the method that best suits your needs:
 
 For detailed instructions on maintaining and updating your installation, visit our [update guide](https://r2explorer.com/getting-started/updating-your-project/).
 
-## Roadmap
-
-We're actively working on these exciting features:
-
-- **File Management**
-  - Support for bucket names with spaces
-  - File search functionality
-  - Folder renaming capability
-  - Image thumbnails generation
-
-- **AI Integration**
-  - Object detection using workers-ai
-
-- **User Experience**
-  - Enhanced timestamp tooltips
-  - Email response capabilities
-  - Advanced file type-specific editing
-
 ## Known Issues
 
 - When using basic authentication, email inline images and assets don't load properly
